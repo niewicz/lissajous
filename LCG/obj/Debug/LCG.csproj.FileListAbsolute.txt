@@ -1,0 +1,28 @@
+c:\users\tommy\documents\visual studio 2015\Projects\LCG\LCG\bin\Debug\LCG.exe.config
+c:\users\tommy\documents\visual studio 2015\Projects\LCG\LCG\bin\Debug\LCG.exe
+c:\users\tommy\documents\visual studio 2015\Projects\LCG\LCG\bin\Debug\LCG.pdb
+c:\users\tommy\documents\visual studio 2015\Projects\LCG\LCG\obj\Debug\LCG.csprojResolveAssemblyReference.cache
+c:\users\tommy\documents\visual studio 2015\Projects\LCG\LCG\obj\Debug\LCG.Properties.Resources.resources
+c:\users\tommy\documents\visual studio 2015\Projects\LCG\LCG\obj\Debug\LCG.csproj.GenerateResource.Cache
+c:\users\tommy\documents\visual studio 2015\Projects\LCG\LCG\obj\Debug\LCG.exe
+c:\users\tommy\documents\visual studio 2015\Projects\LCG\LCG\obj\Debug\LCG.pdb
+c:\users\tommy\documents\visual studio 2015\Projects\LCG\LCG\obj\Debug\LCG.LCGForm.resources
+c:\users\tommy\documents\visual studio 2015\Projects\LCG\LCG\obj\Debug\LCG.controlEq1.resources
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG\LCG\bin\Debug\LCG.exe.manifest
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG\LCG\bin\Debug\LCG.application
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG\LCG\obj\Debug\LCG.exe.manifest
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG\LCG\obj\Debug\LCG.application
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG — kopia\LCG\bin\Debug\LCG.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG — kopia\LCG\obj\Debug\LCG.exe
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG — kopia\LCG\obj\Debug\LCG.pdb
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG — kopia\LCG\bin\Debug\LCG.exe.manifest
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG — kopia\LCG\bin\Debug\LCG.application
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG — kopia\LCG\bin\Debug\LCG.exe
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG — kopia\LCG\bin\Debug\LCG.pdb
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG — kopia\LCG\obj\Debug\LCG.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG — kopia\LCG\obj\Debug\LCG.controlEq1.resources
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG — kopia\LCG\obj\Debug\LCG.LCGForm.resources
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG — kopia\LCG\obj\Debug\LCG.Properties.Resources.resources
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG — kopia\LCG\obj\Debug\LCG.csproj.GenerateResource.Cache
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG — kopia\LCG\obj\Debug\LCG.exe.manifest
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG — kopia\LCG\obj\Debug\LCG.application

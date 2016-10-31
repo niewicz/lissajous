@@ -1,0 +1,14 @@
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG\LCG\bin\Release\LCG.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG\LCG\bin\Release\LCG.exe
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG\LCG\bin\Release\LCG.pdb
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG\LCG\obj\Release\LCG.controlEq1.resources
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG\LCG\obj\Release\LCG.LCGForm.resources
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG\LCG\obj\Release\LCG.Properties.Resources.resources
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG\LCG\obj\Release\LCG.csproj.GenerateResource.Cache
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG\LCG\obj\Release\LCG.exe
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG\LCG\obj\Release\LCG.pdb
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG\LCG\bin\Release\LCG.exe.manifest
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG\LCG\bin\Release\LCG.application
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG\LCG\obj\Release\LCG.exe.manifest
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG\LCG\obj\Release\LCG.application
+C:\Users\Tommy\Documents\Visual Studio 2015\Projects\LCG\LCG\obj\Release\LCG.csprojResolveAssemblyReference.cache
